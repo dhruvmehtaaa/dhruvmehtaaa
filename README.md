@@ -53,6 +53,3 @@ several months
 culminating in successful deployment on **Amazon Web Services**.
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvmehtaaa&show_icons=true&locale=en" alt="dhruvmehtaaa" /></p>
