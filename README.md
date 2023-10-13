@@ -17,10 +17,10 @@
 
 ## Education
 
-Master of Technology: **Geoinformatics, Indian Institute of Technology Bombay**  
+Master of Engineering: **Geoinformatics, Indian Institute of Technology Bombay**  
 _July 2023 - July 2025_
 
-Bachelor of Technology: **Computer Science and Engineering, Visvesvaraya Technological University**  
+Bachelor of Engineering: **Computer Science and Engineering, Visvesvaraya Technological University**  
 _July 2018 - July 2022_
 
 ## Work Experience
