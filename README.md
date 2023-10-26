@@ -17,7 +17,7 @@
 
 ## Education
 
-Master of Engineering: **Geoinformatics, Indian Institute of Technology Bombay**  
+Master of Engineering: **CSRE, Indian Institute of Technology Bombay**  
 _July 2023 - July 2025_
 
 Bachelor of Engineering: **Computer Science and Engineering, Visvesvaraya Technological University**  
